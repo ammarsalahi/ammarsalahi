@@ -17,7 +17,7 @@
 
 ### 📫 How to reach me:
 
-t.me/ammarpyneo
+<a href="t.me/ammarpyneo">Telegram</a>
 
 ammarsaalahi@gmail.com
 
