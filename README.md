@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+### What I do?
+
+#### Mid-level fullstack web developer with django and reactjs 
+
+### Skills
+- `>>> python`  great
+- `({reactjs})` good
+- `:=golang`    beginner
+- `<html> and .css` great
+
+### Interested in ...
+- Podcasts⚡
+- Learning⚡
+- Football😄
+
+📫 How to reach me: ammarsaalahi@gmail.com
+
 <!--
 **ammarsalahi/ammarsalahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
