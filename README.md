@@ -8,7 +8,7 @@
 - `>>> python`  great
 - `({javascript})` good
 - `:=golang`    beginner
-- `<html> and .css` great
+- `<html>` and `.css` great
 
 ### Interested in ...
 - Podcasts⚡
