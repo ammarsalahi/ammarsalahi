@@ -15,7 +15,7 @@
 - Learning⚡
 - Football😄
 
-📫 How to reach me: ammarsaalahi@gmail.com
+📫 How to reach me: @ammarpyneo in telegram and twitter
 
 <!--
 **ammarsalahi/ammarsalahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
