@@ -17,7 +17,9 @@
 
 ### 📫 How to reach me:
 twiter.com/ammarpyneo
+
 t.me/ammarpyneo
+
 ammarsaalahi@gmail.com
 
 <!--
