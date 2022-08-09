@@ -6,7 +6,7 @@
 
 ### Skills
 - `>>> python`  great
-- `({reactjs})` good
+- `({javascript})` good
 - `:=golang`    beginner
 - `<html> and .css` great
 
