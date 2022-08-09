@@ -16,7 +16,6 @@
 - Football😄
 
 ### 📫 How to reach me:
-twiter.com/ammarpyneo
 
 t.me/ammarpyneo
 
