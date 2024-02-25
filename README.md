@@ -7,7 +7,7 @@
 ### Skills
 - `>>> python`  great
 - `({javascript})` great
--`({typecript})` great
+- `({typecript})` great
 - `:=golang`    beginner
 - `<html>` and `.css` great
 
