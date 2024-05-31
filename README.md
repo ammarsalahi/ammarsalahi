@@ -2,12 +2,12 @@
 
 ### What I do?
 
-#### Mid-level fullstack web developer with django and reactjs 
+#### Mid-level Full-Stack Web Developer with Django and React
 
 ### Skills
 - `>>> python`  great
 - `({javascript})` great
-- `({typecript})` great
+- `({typecript:any})` great
 - `:=golang`    beginner
 - `<html>` and `.css` great
 
@@ -19,6 +19,8 @@
 ### 📫 How to reach me:
 
 <a href="https://t.me/ammarpyneo">Telegram</a>
+<a href="https://instagram.com/ammarsaalahi">Instagram</a>
+
 
 ammarsaalahi@gmail.com
 
