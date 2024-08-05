@@ -25,7 +25,6 @@
 
 ammarsaalahi@gmail.com
 
-  ![Snake animation](https://github.com/ammarsalahi/ammarsalahi/blob/output/github-contribution-grid-snake.svg)
 
 
 
