@@ -25,6 +25,10 @@
 
 ammarsaalahi@gmail.com
 
+  ![Snake animation](https://github.com/ammarsalahi/ammarsalahi/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <!--
 **ammarsalahi/ammarsalahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
