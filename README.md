@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ammar Salahi====================================================================================================================================Sofware Engineer and Full-Stack Web Developer---------------------------------------------I have been doing web programming for about 5 years and mostly freelance* 🌍  I'm based in astara/iran* ✉️  You can contact me at [ammarsaalahi@gmail.com](mailto:ammarsaalahi@gmail.com)* 🧠  I'm learning Go language
+Hi 👋 My name is Ammar Salahi
+=============================Sofware Engineer and Full-Stack Web Developer---------------------------------------------I have been doing web programming for about 5 years and mostly freelance* 🌍  I'm based in astara/iran* ✉️  You can contact me at [ammarsaalahi@gmail.com](mailto:ammarsaalahi@gmail.com)* 🧠  I'm learning Go language
 
 ### Skills
 
