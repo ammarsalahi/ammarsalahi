@@ -1,5 +1,8 @@
 Hi 👋 My name is Ammar Salahi
-=============================Sofware Engineer and Full-Stack Web Developer---------------------------------------------I have been doing web programming for about 5 years and mostly freelance* 🌍  I'm based in astara/iran* ✉️  You can contact me at [ammarsaalahi@gmail.com](mailto:ammarsaalahi@gmail.com)* 🧠  I'm learning Go language
+
+Sofware Engineer and Full-Stack Web Developer
+
+I have been doing web programming for about 5 years and mostly freelance* 🌍  I'm based in astara/iran* ✉️  You can contact me at [ammarsaalahi@gmail.com](mailto:ammarsaalahi@gmail.com)* 🧠  I'm learning Go language
 
 ### Skills
 
