@@ -9,9 +9,9 @@ I have around 8 years of experience in web development, primarily working on fre
 ### Skills
 
 <p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/rust" width="36" height="36" alt="Rust" />
-  </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+</a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
